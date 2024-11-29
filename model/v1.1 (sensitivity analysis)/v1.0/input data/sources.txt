@@ -1,0 +1,34 @@
+
+
+- Specific Investment Costs of Solar Modules: https://ourworldindata.org/grapher/solar-pv-prices?time=2014..latest
+
+- EUR in $: 0.92
+
+- Specific Investment Costs of Solar Modules: https://www.pveurope.eu/markets/solar-modules-module-prices-continue-spiral-downwards
+
+- https://www.solarpowereurope.org/press-releases/record-low-solar-pv-prices-risk-eu-s-open-strategic-autonomy
+
+
+
+
+
+
+
+
+REFERED TO IN THE PAPER:
+
+- Solar electricity generation in the European Union in 2020, with a projection based on stated policies for 2025 to 2050
+	https://www.statista.com/statistics/1424532/solar-electricity-production-forecast-european-union/
+
+
+________________________________________________________________
+
+WIND TURBINES:
+
+- Specific Investment Costs of Wind Turbines: https://www.researchgate.net/figure/Histogram-of-specific-investment-costs-Costs-were-calculated-for-both-turbine-vintages-in_fig3_325145621
+
+- Onshore and offshore wind power generation in the European Union in 2020, with a projection based on stated policies for 2025 to 2050
+	https://www.statista.com/statistics/1427533/wind-electricity-production-forecast-european-union/
+
+- Cumulative onshore and offshore wind power net capacity installed in the European Union from 2020 to 2022, with a forecast for 2030
+	https://www.statista.com/statistics/1424392/forecast-wind-power-capacity-european-union/

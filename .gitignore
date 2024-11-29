@@ -263,3 +263,7 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
+
+# exclude the following folders:
+submission/*
+proposal/*

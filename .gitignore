@@ -267,3 +267,4 @@ TSWLatexianTemp*
 # exclude the following folders:
 submission/*
 proposal/*
+papers/*
